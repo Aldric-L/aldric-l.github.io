@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Aldric Labarthe</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Aldric Labarthe</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Undergraduate Courses (Mathematics)</title>
+      <link>http://localhost:1313/tags/undergraduate-courses-mathematics/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/undergraduate-courses-mathematics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agent-Based Models</title>
+      <link>http://localhost:1313/tags/agent-based-models/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/agent-based-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Econo-Physics</title>
+      <link>http://localhost:1313/tags/econo-physics/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/econo-physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>http://localhost:1313/tags/optimization/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Networks</title>
+      <link>http://localhost:1313/tags/social-networks/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate Courses (Microeconomics)</title>
+      <link>http://localhost:1313/tags/undergraduate-courses-microeconomics/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/undergraduate-courses-microeconomics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithmic Collusion</title>
+      <link>http://localhost:1313/tags/algorithmic-collusion/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/algorithmic-collusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>http://localhost:1313/tags/reinforcement-learning/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open-Sources Development</title>
+      <link>http://localhost:1313/tags/open-sources-development/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/open-sources-development/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,119 @@
+baseURL: "https://pascalmichaillat.org/hugo-website/" 
+title: Aldric Labarthe
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        #- name: Books
+        #  url: books/
+        #  weight: 5 
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Courses
+          url: courses/
+          weight: 3
+        - name: Miscellaneous projects
+          url: projects/
+          weight: 4
+        - name: All by dates
+          url: archive/
+          weight: 5
+        - name: All by tags
+          url: tags/
+          weight: 5
+        #- name: Data
+        #  url: data/
+        #  weight: 4 
+        #- name: Blog
+        #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #  weight: 6
+
+params:
+    description: "Junior researcher in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (networks, algorithmic prices) or on geometric new probabilistic graphical models. I am a teaching assistant for the University Paris 1 Panthéon Sorbonne in economics and mathematics."
+    author: Aldric Labarthe
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["courses","papers", "projects"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Aldric Labarthe
+          subtitle: "Junior researcher in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (networks, algorithmic prices) or on geometric new probabilistic graphical models. I am a teaching assistant for the University Paris 1 Panthéon Sorbonne in economics and mathematics."
+          imageUrl: "PDP.jpg"
+          imageWidth: 185
+          imageHeight: 185
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Courses
+              url: courses/
+            #- name: Data
+            #  url: data/
+            #- name: Books
+            #  url: books/
+            - name: Tags
+              url: tags/
+            #- name: Archive
+            #  url: archive/
+            #- name: Blog
+            #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: CV
+          url: ALabarthe_AcademicCV2025.pdf
+        - name: Email
+          url: mailto:[first_name].labarthe[at]ens-paris-saclay.[fr]
+        - name: Google Scholar
+          url: https://scholar.google.fr/citations?user=n2arORsAAAAJ&hl=fr
+        - name: GitHub
+          url: https://github.com/Aldric-L
+        #- name: YouTube
+        #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        #- name: Twitter
+        #  url: https://twitter.com/McCallSmith
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Aldric Labarthe"
+      icon: PDP.jpg
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

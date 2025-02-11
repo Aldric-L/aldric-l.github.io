@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aldric Labarthe</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Aldric Labarthe</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics: Multivariate Analysis and topology (L2)</title>
+      <link>http://localhost:1313/courses/analysel2s2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/analysel2s2/</guid>
+      <description>Undergraduate course on multivariate real analysis (in $R^n$) with some extensions on optimization theory and topology. The course is given in French at Université Panthéon-Sorbonne.</description>
+    </item>
+    <item>
+      <title>Generating social networks with static and dynamic utility-maximization approaches</title>
+      <link>http://localhost:1313/papers/sms/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/sms/</guid>
+      <description>This paper offers a novel theoretical framework at the interface of physics and economics to understand and generate social networks.</description>
+    </item>
+    <item>
+      <title>Microeconomics: Insurance and risk theory (L3)</title>
+      <link>http://localhost:1313/courses/microl3s1/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/microl3s1/</guid>
+      <description>Undergraduate course on insurance theory, risk theory, microeconomics and game theory. The course is given in French at Université Panthéon-Sorbonne.</description>
+    </item>
+    <item>
+      <title>Strategies and equilibria on selected markets: a multi-agent simulation and stochastic modeling approach</title>
+      <link>http://localhost:1313/papers/mir/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/mir/</guid>
+      <description>In this paper, we introduce the first agent-based model of competition in quantities featuring a *Deep Deterministic Policy Gradient* (DDPG) algorithm and assess its effect on both equilibrium stability and collusive outcome.</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+    </item>
+    <item>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>Microeconomics: Consumer, Producer, Partial equlibrium (L1)</title>
+      <link>http://localhost:1313/courses/microl1s2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/microl1s2/</guid>
+      <description>Undergraduate course on the basics of the microeconomics. The course is given in French at Université Panthéon-Sorbonne.</description>
+    </item>
+    <item>
+      <title>DiamondCMS</title>
+      <link>http://localhost:1313/projects/diamondcms/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/diamondcms/</guid>
+      <description>DiamondCMS is a free content manager software (CMS) that aims to enable people with zero programming background to build complex websites that can interact with game servers using a secure TCP-IP communication channel.</description>
+    </item>
+  </channel>
+</rss>
