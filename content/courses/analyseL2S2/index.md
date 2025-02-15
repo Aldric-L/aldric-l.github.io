@@ -19,7 +19,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-Ce cours de L2 a pour objectif de proposer une extension des notions d'analyse, enseignées en première année, dans le cas multivarié. Le cours est constitué d'une remise à niveau sur les principaux théoèremes, d'une introduction à la topologie de $R^n$ (et des espaces métriques), d'une partie sur la différentiation et d'une introduction à l'optimisation de problèmes non-contraints. 
+Ce cours de L2 a pour objectif de proposer une extension des notions d'analyse, enseignées en première année, dans le cas multivarié. Le cours est constitué d'une remise à niveau sur les principaux théorèmes, d'une introduction à la topologie de $R^n$ (et des espaces métriques), d'une partie sur la différentiation et d'une introduction à l'optimisation de problèmes non-contraints. 
 
 Le cours est constitué de 12 séances de TD de 2h30, qui donnent lieu à 4 évaluations de contrôle continu.
 

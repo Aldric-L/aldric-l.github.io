@@ -46,6 +46,7 @@ Le cours est constitué de 10 séances de TD d'1h30, qui donnent lieu à 2 éval
 
 
 > Microeconomics: Principles and Analysis,  Frank Cowell, (2018, 978-0198804093, Oxford University Press)
+
 > Microéconomie - Cours et application , Christophe Hachon et Reynald-Alexandre Laurent (2012, 9782091620756, Nathan Sup.)
 
 

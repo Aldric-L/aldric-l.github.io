@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Agent-Based Models on Aldric Labarthe</title>
-    <link>http://localhost:1313/tags/agent-based-models/</link>
+    <link>https://example.org/tags/agent-based-models/</link>
     <description>Recent content in Agent-Based Models on Aldric Labarthe</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/agent-based-models/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/agent-based-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generating social networks with static and dynamic utility-maximization approaches</title>
-      <link>http://localhost:1313/papers/sms/</link>
+      <link>https://example.org/papers/sms/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/sms/</guid>
+      <guid>https://example.org/papers/sms/</guid>
       <description>This paper offers a novel theoretical framework at the interface of physics and economics to understand and generate social networks.</description>
     </item>
     <item>
       <title>Strategies and equilibria on selected markets: a multi-agent simulation and stochastic modeling approach</title>
-      <link>http://localhost:1313/papers/mir/</link>
+      <link>https://example.org/papers/mir/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/mir/</guid>
+      <guid>https://example.org/papers/mir/</guid>
       <description>In this paper, we introduce the first agent-based model of competition in quantities featuring a *Deep Deterministic Policy Gradient* (DDPG) algorithm and assess its effect on both equilibrium stability and collusive outcome.</description>
     </item>
   </channel>

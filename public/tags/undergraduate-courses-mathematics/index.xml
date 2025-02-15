@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Undergraduate Courses (Mathematics) on Aldric Labarthe</title>
-    <link>http://localhost:1313/tags/undergraduate-courses-mathematics/</link>
+    <link>https://example.org/tags/undergraduate-courses-mathematics/</link>
     <description>Recent content in Undergraduate Courses (Mathematics) on Aldric Labarthe</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/undergraduate-courses-mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/undergraduate-courses-mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mathematics: Multivariate Analysis and topology (L2)</title>
-      <link>http://localhost:1313/courses/analysel2s2/</link>
+      <link>https://example.org/courses/analysel2s2/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/analysel2s2/</guid>
+      <guid>https://example.org/courses/analysel2s2/</guid>
       <description>Undergraduate course on multivariate real analysis (in $R^n$) with some extensions on optimization theory and topology. The course is given in French at Université Panthéon-Sorbonne.</description>
     </item>
   </channel>

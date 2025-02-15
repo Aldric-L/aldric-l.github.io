@@ -36,7 +36,7 @@ menu:
         #  weight: 6
 
 params:
-    description: "Junior researcher in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (networks, algorithmic prices) or on geometric new probabilistic graphical models. I am a teaching assistant for the University Paris 1 Panthéon Sorbonne in economics and mathematics."
+    description: "Junior researcher in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (equilibrium convergence, algorithmic prices, game theory), complex systems (networks, agent-based models) and geometric probabilistic models. I am a teaching assistant for the University Paris 1 Panthéon Sorbonne in economics and mathematics."
     author: Aldric Labarthe
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -62,7 +62,7 @@ params:
     profileMode:
           enabled: true
           title: Aldric Labarthe
-          subtitle: "Junior researcher in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (networks, algorithmic prices) or on geometric new probabilistic graphical models. I am a teaching assistant for the University Paris 1 Panthéon Sorbonne in economics and mathematics."
+          subtitle: "Junior researcher in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (equilibrium convergence, algorithmic prices, game theory), complex systems (networks, agent-based models) and geometric probabilistic models. I am a teaching assistant for the University Paris 1 Panthéon Sorbonne in economics and mathematics."
           imageUrl: "PDP.jpg"
           imageWidth: 185
           imageHeight: 185

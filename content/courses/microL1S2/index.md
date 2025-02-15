@@ -23,6 +23,7 @@ Ce cours de microéconomie de première année a pour objectif d'introduire les 
 
 Le cours est constitué de 12 séances de TD d'1h30, qui donnent lieu à 2 évaluations de contrôle continu. 
 
+*Note: Les sujets de contrôle continu ne seront ni du même format, ni de la même difficulté, cette année que ceux de l'année dernière. Ils sont néanmoins un bon entraînement dans l'objectif de se préparer à une poursuite d'études dans la matière.*
 
 ## Le consommateur
 
@@ -35,7 +36,7 @@ Notions principales : TMS, courbes d'indifférence, programme du consommateur, d
 
 ##### Contrôle continu 1
 
-<!--+ [Lecture note 1](lecture1.pdf)-->
++ [CC1 (2024)](CC1-2024-AL.pdf) – Contrôle continu 1 (2024, sujet d'1h30)
 
 ## Le producteur
 
@@ -43,11 +44,11 @@ Notions principales : TMST, courbes d'isocoût, d'isoprofit et isoquantes, progr
 
 ##### Supports
 
-+ [DM Producteur](DMProdALABARTHE.pdf) – Un devoir maison sur les techniques fondamentales de la microéconomie du producteur
++ [DM Producteur (2024)](DMProdALABARTHE.pdf) – Un devoir maison sur les techniques fondamentales de la microéconomie du producteur
 
 ##### Contrôle continu 2
 
-<!--+ [Lecture note 1](lecture1.pdf)-->
++ [CC2 (2024)](CC2-2024-AL.pdf) – Contrôle continu 2 (2024, sujet d'1h30)
 
 ## Introduction à l'équilibre partiel
 
@@ -61,6 +62,7 @@ Notions principales : fonctions de demande et d'offre, taxation et surplus
 
 
 > Microéconomie, 12 édition, Alain Piller (2013, 978-2915857870, Premium editions)
+
 > Microéconomie - Cours et application , Christophe Hachon et Reynald-Alexandre Laurent (2012, 9782091620756, Nathan Sup.)
 
 
