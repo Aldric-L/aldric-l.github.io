@@ -33,6 +33,7 @@ Notions principales : TMS, courbes d'indifférence, programme du consommateur, d
 
 + [TMS TDI-2](td1.2TMSALABARTHE.pdf) – Approfondissement sur la notion de TmS (exercice 2 TD1)
 + [CI TDI-3](td1.3CIALABARTHE.pdf) – Approfondissement sur les biens substituables et complémentaires (exercice 3 TD1)
++ [TDII (Notes)](TD2_S2_Microéconomie_MIASHS_2025-02-17.pdf) - [TDII (Replay)](https://www.youtube.com/watch?v=M1tYqart6dM) - Corrigé manuscript du TD2 avec méthodologie sur le calcul des demandes marshalliennes
 
 ##### Contrôle continu 1
 
