@@ -43,6 +43,14 @@ Le cours est constitué de 12 séances de TD de 2h30, qui donnent lieu à 4 éva
 
 ## Compléments
 
+##### Courbes de niveau d'une fonction à plusieurs variables
+
+La notion de courbe de niveau est souvent considérée comme abstraite par les étudiants alors que, pour la plupart d'entre-eux, ils ont déjà croisé cette notion lors de l'enseignement de microéconomie. On montre donc ici que les courbes d'indifférence sont en réalité les courbes de niveau de la fonction d'utilité. 
+
+
+{{< iframe src="indifference_curve_plot.html" width="100%" height="700" >}}
+
+
 ##### Dérivabilité n'est pas différentiabilité
 
 
@@ -51,6 +59,7 @@ Le TD 5 invite à ne pas confondre différentiabilité et dérivabilité : une f
 $\left.\frac{\partial f}{\partial x} \right\vert_{(0,0)} = \lim_{h\to0} \frac{f(h, 0) - f(0, 0)}{h} = 1 = \lim_{h\to0} \frac{f(0, h) - f(0, 0)}{h} = \left.\frac{\partial f}{\partial y} \right\vert_{(0,0)}$
 
 {{< iframe src="non-diff-but-der2.html" width="100%" height="700" >}}
+
 ## Références
 
 

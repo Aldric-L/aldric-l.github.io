@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static HTML with Slider and Plotly</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        .slider-container {
+            margin-top: 20px;
+        }
+        #plotly-graph {
+            display: block;
+            width: 100%;
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Indifference Curve as a Level Curve of the Utility</h1>
+    <h5 style="color:cadetblue;margin-top: 0;">Aldric Labarthe - CC-BY-SA</h5>
+
+    <!-- Plotly graph container -->
+    <div id="plotly-graph"></div>
+
+    <!-- Slider -->
+    <div class="slider-container">
+        <input type="range" id="utility-slider" min="0.5" max="10.0" step="0.1" value="1.0" style="width: 80%;">
+        <p>Utility Level: <span id="utility-value">1.0</span></p>
+    </div>
+
+    <script>
+         function cobbDouglas(x, y, alpha = 0.5) {
+            return Math.pow(x, alpha) * Math.pow(y, 1 - alpha);
+        }
+
+        function generateFigure(utilityLevel) {
+            let x = [];
+            let y = [];
+            let z = [];
+            
+            // Generate data for 2D curve
+            for (let i = 0.1; i <= 10; i += 0.1) {
+                x.push(i);
+                y.push(Math.pow(utilityLevel / Math.pow(i, 0.5), 1 / 0.5));
+            }
+
+            let X = [], Y = [], Z = [], Z_plane = [];
+            for (let i = 0.1; i <= 10; i += 0.2) {
+                let rowX = [], rowY = [], rowZ = [], rowPlane = [];
+                for (let j = 0.1; j <= 10; j += 0.2) {
+                    rowX.push(i);
+                    rowY.push(j);
+                    rowZ.push(cobbDouglas(i, j));
+                    rowPlane.push(utilityLevel);
+                }
+                X.push(rowX);
+                Y.push(rowY);
+                Z.push(rowZ);
+                Z_plane.push(rowPlane);
+            }
+
+            return {X, Y, Z, Z_plane, x, y};
+        }
+
+        // Plotly figure generation
+        function plotFigure(utilityLevel) {
+            const data = generateFigure(utilityLevel);
+
+            const surface = {
+                type: 'surface',
+                x: data.X,
+                y: data.Y,
+                z: data.Z,
+                colorscale: 'Viridis',
+                opacity: 0.9,
+                showscale: false,
+            };
+
+            const curve = {
+                x: data.x,
+                y: data.y,
+                type: 'scatter',
+                mode: 'lines',
+                line: {
+                    color: 'rgba(0, 0, 255, 0.7)',
+                },
+                name: `IC (U = ${utilityLevel})`,
+            };
+
+            const plane = {
+                type: 'surface',
+                x: data.X,
+                y: data.Y,
+                z: data.Z_plane,
+                colorscale: [[0, 'red'], [1, 'red']],
+                opacity: 0.3,
+                showscale: false,
+            };
+
+
+            const layout = {
+                title: `Indifference Curve for Utility Level ${utilityLevel}`,
+                grid: {rows: 1, columns: 2, pattern: 'independent'},
+                xaxis: {title: 'X', domain: [0.5, 1]}, // Adjust domain for separation
+                yaxis: {title: 'Y', domain: [0.1, 2], range: [0, 10]}, // Adjust domain for separation
+                scene: {
+                    xaxis: {title: 'X'},
+                    yaxis: {title: 'Y'},
+                    zaxis: {title: 'Indifference curve'},
+                    camera: {
+                        eye: {x: -2, y: -2, z: 1},
+                    },
+                },
+                showlegend: true,
+                height: 600,
+                width: 1000,
+                margin: {t: 40, b: 40, l: 40, r: 40},
+            };
+
+            // Create the plot with both 3D surface and 2D curve
+            Plotly.newPlot('plotly-graph', [surface, plane, curve], layout);
+        }
+
+        // Set initial figure with utility level 1.0
+        plotFigure(1.0);
+
+        // Update plot when slider is changed
+        document.getElementById('utility-slider').addEventListener('input', function(event) {
+            const utilityLevel = event.target.value;
+            document.getElementById('utility-value').textContent = utilityLevel;
+            const data = generateFigure(utilityLevel);
+            Plotly.restyle('plotly-graph', {z: [data.Z_plane]}, [1]);  // Update plane
+            Plotly.restyle('plotly-graph', {x: [data.x], y: [data.y]}, [2]);  // Update curve
+        });
+    </script>
+
+</body>
+</html>
