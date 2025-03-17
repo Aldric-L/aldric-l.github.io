@@ -45,7 +45,7 @@ Le cours est constitué de 12 séances de TD de 2h30, qui donnent lieu à 4 éva
 
 ##### Courbes de niveau d'une fonction à plusieurs variables
 
-La notion de courbe de niveau est souvent considérée comme abstraite par les étudiants alors que, pour la plupart d'entre-eux, ils ont déjà croisé cette notion lors de l'enseignement de microéconomie. On montre donc ici que les courbes d'indifférence sont en réalité les courbes de niveau de la fonction d'utilité. 
+La notion de courbe de niveau est souvent considérée comme abstraite par les étudiants alors que, pour la plupart d'entre-eux, ils ont déjà croisé cette notion lors de l'enseignement de microéconomie. On montre donc ici que les courbes d'indifférence sont en réalité les courbes de niveau de la fonction d'utilité (on présente ici une Cobb-Douglas d'équation $U(x, y) = x^{\frac{1}{2}}y^{\frac{1}{2}}$). 
 
 
 {{< iframe src="indifference_curve_plot.html" width="100%" height="700" >}}
