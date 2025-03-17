@@ -14,7 +14,6 @@ cover:
     relative: false
 showToc: true
 disableAnchoredHeadings: false
-
 ---
 
 ## Introduction
@@ -42,6 +41,16 @@ Le cours est constitué de 12 séances de TD de 2h30, qui donnent lieu à 4 éva
 
 <!--+ [Lecture note 1](lecture1.pdf)-->
 
+## Compléments
+
+##### Dérivabilité n'est pas différentiabilité
+
+
+Le TD 5 invite à ne pas confondre différentiabilité et dérivabilité : une fonction peut admettre des dérivées partielles en un point, mais ne pas être différentiable en ce même point. Voici ici un exemple en $(0,0)$ pour $f(x, y) = (x^{11} + y^{11})^{1/11}$.
+
+$\left.\frac{\partial f}{\partial x} \right\vert_{(0,0)} = \lim_{h\to0} \frac{f(h, 0) - f(0, 0)}{h} = 1 = \lim_{h\to0} \frac{f(0, h) - f(0, 0)}{h} = \left.\frac{\partial f}{\partial y} \right\vert_{(0,0)}$
+
+{{< iframe src="non-diff-but-der2.html" width="100%" height="700" >}}
 ## Références
 
 
