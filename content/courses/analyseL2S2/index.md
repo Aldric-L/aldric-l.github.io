@@ -31,8 +31,13 @@ Le cours est constitué de 12 séances de TD de 2h30, qui donnent lieu à 4 éva
 + [TD5-6](RappelsAnalyseTD5-6.pdf) – Rappels de cours sur la dérivabilité et la différentiabilité.
 + [TD7](RappelsAnalyseTD7.pdf) – Rappels de cours sur les dérivées secondes et l'optimisation.
 
-##### Corrigés et approfondissements
+##### Séances distanciel
++ [TD5 5.10-13](TD5-L2-Analyse_Rn-2025-03-18.pdf) – Correction manuscrite de la fin du TD5 enregistrée le 18/03/2025.
++ [TD5 5.10-13](https://www.youtube.com/watch?v=Y1PUcT2XeHA) – Replay de correction de la fin du TD5 enregistrée le 18/03/2025.
++ [TD5 6.1-4](exercices1-4TD6.pdf) – Correction Latex des exercices 1 à 4 du TD6 (corrigés le 18/03/2025 en ligne).
 
+
+##### Corrigés et approfondissements
 
 + [Exercices 2024](CorrectionsAnalyseSupp.pdf) – Quelques exercices (souvent plus difficiles) de l'année dernière dont je propose un corrigé.
 
