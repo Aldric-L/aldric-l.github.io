@@ -58,6 +58,7 @@ Notions principales : fonctions de demande et d'offre, taxation et surplus
 ##### Supports
 
 + [Transcript TD6](transcriptTD6-18av24.pdf) – Notes de correction sur les derniers exercices du TD6 (version 2024)
++ [TDVI (Notes)](TD6_S2_Microeconomie_MIASHS_2025-03-31.pdf) - [TD VI (Replay)](https://www.youtube.com/watch?v=TDhoqgyT_V8) - Correction du TD6 (version 2025, séance du 31/02/25)
 
 ## Références
 
