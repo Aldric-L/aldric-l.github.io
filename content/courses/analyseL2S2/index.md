@@ -37,8 +37,8 @@ Le cours est constitué de 12 séances de TD de 2h30, qui donnent lieu à 4 éva
 + [TD6 6.1-4](exercices1-4TD6.pdf) – Correction Latex des exercices 1 à 4 du TD6 (corrigés le 18/03/2025 en ligne).
 + [TD6 6.5-14](TD6-L2-Analyse_Rn-2025-03-25.pdf) – Correction manuscrite de la fin du TD6 enregistrée le 25/03/2025.
 + [TD6 6.5-14](https://www.youtube.com/watch?v=1xxTq8m35ww) – Replay de correction de la fin du TD6 enregistrée le 25/03/2025.
-+ [TD7 7.2-7.7](TD7-L2-Analyse_Rn-2025-04-08.pdf) – Correction manuscrite de la fin du TD6 enregistrée le 25/03/2025.
-+ [TD7 7.2-7.7](https://www.youtube.com/watch?v=ZJjK1RJy3ds) – Replay de correction de la fin du TD6 enregistrée le 25/03/2025.
++ [TD7 7.2-7.7](TD7-L2-Analyse_Rn-2025-04-08.pdf) – Correction manuscrite des exercices 1 à 7 du TD7 enregistrée le 08/04/2025.
++ [TD7 7.2-7.7](https://www.youtube.com/watch?v=ZJjK1RJy3ds) – Replay de correction des exercices 1 à 7 du TD7 enregistrée le 08/04/2025.
 
 
 ##### Corrigés et approfondissements
