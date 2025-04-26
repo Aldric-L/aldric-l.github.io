@@ -32,14 +32,11 @@ Le cours est constitué de 12 séances de TD de 2h30, qui donnent lieu à 4 éva
 + [TD7](RappelsAnalyseTD7.pdf) – Rappels de cours sur les dérivées secondes et l'optimisation.
 
 ##### Séances distanciel
-+ [TD5 5.10-13](TD5-L2-Analyse_Rn-2025-03-18.pdf) – Correction manuscrite de la fin du TD5 enregistrée le 18/03/2025.
-+ [TD5 5.10-13](https://www.youtube.com/watch?v=Y1PUcT2XeHA) – Replay de correction de la fin du TD5 enregistrée le 18/03/2025.
++ [Notes](TD5-L2-Analyse_Rn-2025-03-18.pdf) - [Replay](https://www.youtube.com/watch?v=Y1PUcT2XeHA)– Correction de la fin du TD5 enregistrée le 18/03/2025.
 + [TD6 6.1-4](exercices1-4TD6.pdf) – Correction Latex des exercices 1 à 4 du TD6 (corrigés le 18/03/2025 en ligne).
-+ [TD6 6.5-14](TD6-L2-Analyse_Rn-2025-03-25.pdf) – Correction manuscrite de la fin du TD6 enregistrée le 25/03/2025.
-+ [TD6 6.5-14](https://www.youtube.com/watch?v=1xxTq8m35ww) – Replay de correction de la fin du TD6 enregistrée le 25/03/2025.
-+ [TD7 7.2-7.7](TD7-L2-Analyse_Rn-2025-04-08.pdf) – Correction manuscrite des exercices 1 à 7 du TD7 enregistrée le 08/04/2025.
-+ [TD7 7.2-7.7](https://www.youtube.com/watch?v=ZJjK1RJy3ds) – Replay de correction des exercices 1 à 7 du TD7 enregistrée le 08/04/2025.
-
++ [Notes](TD6-L2-Analyse_Rn-2025-03-25.pdf) - [Replay](https://www.youtube.com/watch?v=1xxTq8m35ww) – Correction de la fin du TD6 enregistrée le 25/03/2025.
++ [Notes](TD7-L2-Analyse_Rn-2025-04-08.pdf) - [Replay](https://www.youtube.com/watch?v=ZJjK1RJy3ds) – Correction des exercices 1 à 7 du TD7 enregistrée le 08/04/2025.
++ [Notes](TD7-L2-Analyse_Rn-2025-04-22.pdf) - [Replay](https://www.youtube.com/watch?v=julh2kLdJtY) – Correction des exercices 6.10 à 7.7 des TD6 et 7 enregistrée le 22/04/2025.
 
 ##### Corrigés et approfondissements
 
