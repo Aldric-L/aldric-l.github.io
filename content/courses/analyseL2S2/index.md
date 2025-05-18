@@ -1,7 +1,6 @@
 ---
 title: "Mathematics: Multivariate Analysis and topology (L2)"
 date: 2025-01-01
-lastmod: 2025-01-01
 aliases: 
 #    - /courses/microL1S2/graph.png
 tags: ["Undergraduate courses (Mathematics)"]

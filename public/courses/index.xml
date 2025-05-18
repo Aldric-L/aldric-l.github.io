@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Courses on Aldric Labarthe</title>
-    <link>https://example.org/courses/</link>
+    <link>https://aldric-l.github.io/courses/</link>
     <description>Recent content in Courses on Aldric Labarthe</description>
-    <generator>Hugo -- 0.140.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/courses/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aldric-l.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mathematics: Multivariate Analysis and topology (L2)</title>
-      <link>https://example.org/courses/analysel2s2/</link>
+      <link>https://aldric-l.github.io/courses/analysel2s2/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/courses/analysel2s2/</guid>
+      <guid>https://aldric-l.github.io/courses/analysel2s2/</guid>
       <description>Undergraduate course on multivariate real analysis (in $R^n$) with some extensions on optimization theory and topology. The course is given in French at Université Panthéon-Sorbonne.</description>
     </item>
     <item>
       <title>Microeconomics: Insurance and risk theory (L3)</title>
-      <link>https://example.org/courses/microl3s1/</link>
+      <link>https://aldric-l.github.io/courses/microl3s1/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/courses/microl3s1/</guid>
+      <guid>https://aldric-l.github.io/courses/microl3s1/</guid>
       <description>Undergraduate course on insurance theory, risk theory, microeconomics and game theory. The course is given in French at Université Panthéon-Sorbonne.</description>
     </item>
     <item>
       <title>Microeconomics: Consumer, Producer, Partial equlibrium (L1)</title>
-      <link>https://example.org/courses/microl1s2/</link>
+      <link>https://aldric-l.github.io/courses/microl1s2/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/courses/microl1s2/</guid>
+      <guid>https://aldric-l.github.io/courses/microl1s2/</guid>
       <description>Undergraduate course on the basics of the microeconomics. The course is given in French at Université Panthéon-Sorbonne.</description>
     </item>
   </channel>

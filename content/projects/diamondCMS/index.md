@@ -1,7 +1,6 @@
 ---
 title: "DiamondCMS" 
 date: 2017-09-01
-lastmod: 2024-11-22
 tags: ["Open-sources development"]
 author: ["Aldric Labarthe"]
 description: "DiamondCMS is a free content manager software (CMS) that aims to enable people with zero programming background to build complex websites that can interact with game servers using a secure TCP-IP communication channel." 

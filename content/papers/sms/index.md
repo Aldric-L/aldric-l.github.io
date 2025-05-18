@@ -1,7 +1,6 @@
 ---
 title: "Generating social networks with static and dynamic utility-maximization approaches" 
 date: 2024-11-22
-lastmod: 2024-11-22
 tags: ["Social Networks","Optimization","Agent-based models","Econo-physics"]
 author: ["Aldric Labarthe", "Yann Kerzreho"]
 description: "This paper offers a novel theoretical framework at the interface of physics and economics to understand and generate social networks." 

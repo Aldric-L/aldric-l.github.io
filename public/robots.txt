@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aldric-l.github.io/sitemap.xml

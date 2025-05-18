@@ -1,7 +1,6 @@
 ---
 title: "Microeconomics: Consumer, Producer, Partial equlibrium (L1)"
 date: 2024-01-01
-lastmod: 2025-01-05
 aliases: 
 #    - /courses/microL1S2/graph.png
 tags: ["Undergraduate courses (Microeconomics)"]

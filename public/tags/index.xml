@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Aldric Labarthe</title>
-    <link>https://example.org/tags/</link>
+    <link>https://aldric-l.github.io/tags/</link>
     <description>Recent content in Tags on Aldric Labarthe</description>
-    <generator>Hugo -- 0.140.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aldric-l.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate Courses (Mathematics)</title>
-      <link>https://example.org/tags/undergraduate-courses-mathematics/</link>
+      <link>https://aldric-l.github.io/tags/undergraduate-courses-mathematics/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/undergraduate-courses-mathematics/</guid>
+      <guid>https://aldric-l.github.io/tags/undergraduate-courses-mathematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Agent-Based Models</title>
-      <link>https://example.org/tags/agent-based-models/</link>
+      <link>https://aldric-l.github.io/tags/agent-based-models/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/agent-based-models/</guid>
+      <guid>https://aldric-l.github.io/tags/agent-based-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Econo-Physics</title>
-      <link>https://example.org/tags/econo-physics/</link>
+      <link>https://aldric-l.github.io/tags/econo-physics/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/econo-physics/</guid>
+      <guid>https://aldric-l.github.io/tags/econo-physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>https://example.org/tags/optimization/</link>
+      <link>https://aldric-l.github.io/tags/optimization/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/optimization/</guid>
+      <guid>https://aldric-l.github.io/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Networks</title>
-      <link>https://example.org/tags/social-networks/</link>
+      <link>https://aldric-l.github.io/tags/social-networks/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/social-networks/</guid>
+      <guid>https://aldric-l.github.io/tags/social-networks/</guid>
       <description></description>
     </item>
     <item>
       <title>Undergraduate Courses (Microeconomics)</title>
-      <link>https://example.org/tags/undergraduate-courses-microeconomics/</link>
+      <link>https://aldric-l.github.io/tags/undergraduate-courses-microeconomics/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/undergraduate-courses-microeconomics/</guid>
+      <guid>https://aldric-l.github.io/tags/undergraduate-courses-microeconomics/</guid>
       <description></description>
     </item>
     <item>
       <title>Algorithmic Collusion</title>
-      <link>https://example.org/tags/algorithmic-collusion/</link>
+      <link>https://aldric-l.github.io/tags/algorithmic-collusion/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/algorithmic-collusion/</guid>
+      <guid>https://aldric-l.github.io/tags/algorithmic-collusion/</guid>
       <description></description>
     </item>
     <item>
       <title>Reinforcement Learning</title>
-      <link>https://example.org/tags/reinforcement-learning/</link>
+      <link>https://aldric-l.github.io/tags/reinforcement-learning/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/reinforcement-learning/</guid>
+      <guid>https://aldric-l.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Sources Development</title>
-      <link>https://example.org/tags/open-sources-development/</link>
+      <link>https://aldric-l.github.io/tags/open-sources-development/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/open-sources-development/</guid>
+      <guid>https://aldric-l.github.io/tags/open-sources-development/</guid>
       <description></description>
     </item>
   </channel>

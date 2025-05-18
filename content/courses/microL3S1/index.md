@@ -1,7 +1,6 @@
 ---
 title: "Microeconomics: Insurance and risk theory (L3)"
 date: 2024-09-01
-lastmod: 2025-01-01
 aliases: 
 #    - /courses/microL1S2/graph.png
 tags: ["Undergraduate courses (Microeconomics)"]

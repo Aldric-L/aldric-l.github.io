@@ -1,7 +1,6 @@
 ---
 title: "Strategies and equilibria on selected markets: a multi-agent simulation and stochastic modeling approach" 
 date: 2024-05-22
-lastmod: 2024-11-22
 tags: ["Reinforcement Learning", "Agent-based models","Econo-physics", "algorithmic collusion"]
 author: ["Aldric Labarthe"]
 description: "In this paper, we introduce the first agent-based model of competition in quantities featuring a *Deep Deterministic Policy Gradient* (DDPG) algorithm and assess its effect on both equilibrium stability and collusive outcome." 
