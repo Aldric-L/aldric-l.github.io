@@ -6,8 +6,15 @@
     <description>Recent content on Aldric Labarthe</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aldric-l.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A unified model of horizontal differentiation with general spaces and irrational consumers</title>
+      <link>https://aldric-l.github.io/papers/hotelling/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://aldric-l.github.io/papers/hotelling/</guid>
+      <description>This paper offers a novel theoretical framework for horizontal differentiation models, with Riemannian stochastic geometry.</description>
+    </item>
     <item>
       <title>Mathematics: Multivariate Analysis and topology (L2)</title>
       <link>https://aldric-l.github.io/courses/analysel2s2/</link>

@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Optimization on Aldric Labarthe</title>
-    <link>https://aldric-l.github.io/tags/optimization/</link>
-    <description>Recent content in Optimization on Aldric Labarthe</description>
+    <title>Microeconomics on Aldric Labarthe</title>
+    <link>https://aldric-l.github.io/tags/microeconomics/</link>
+    <description>Recent content in Microeconomics on Aldric Labarthe</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
     <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aldric-l.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aldric-l.github.io/tags/microeconomics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A unified model of horizontal differentiation with general spaces and irrational consumers</title>
       <link>https://aldric-l.github.io/papers/hotelling/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://aldric-l.github.io/papers/hotelling/</guid>
       <description>This paper offers a novel theoretical framework for horizontal differentiation models, with Riemannian stochastic geometry.</description>
-    </item>
-    <item>
-      <title>Generating social networks with static and dynamic utility-maximization approaches</title>
-      <link>https://aldric-l.github.io/papers/sms/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aldric-l.github.io/papers/sms/</guid>
-      <description>This paper offers a novel theoretical framework at the interface of physics and economics to understand and generate social networks.</description>
     </item>
   </channel>
 </rss>

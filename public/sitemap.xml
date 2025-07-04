@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aldric-l.github.io/papers/hotelling/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aldric-l.github.io/tags/agent-based-models/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aldric-l.github.io/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aldric-l.github.io/tags/econo-physics/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aldric-l.github.io/tags/hotelling-model-horizontal-differentiation/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aldric-l.github.io/tags/microeconomics/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aldric-l.github.io/tags/optimization/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aldric-l.github.io/papers/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aldric-l.github.io/tags/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aldric-l.github.io/courses/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
@@ -11,25 +35,10 @@
     <loc>https://aldric-l.github.io/courses/analysel2s2/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aldric-l.github.io/tags/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aldric-l.github.io/tags/undergraduate-courses-mathematics/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aldric-l.github.io/tags/agent-based-models/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aldric-l.github.io/tags/econo-physics/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aldric-l.github.io/papers/sms/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aldric-l.github.io/tags/optimization/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aldric-l.github.io/papers/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aldric-l.github.io/tags/social-networks/</loc>
