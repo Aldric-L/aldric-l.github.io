@@ -16,9 +16,10 @@ cover:
 
 ##### Download
 
-+ [Thesis and mathematical appendices](https://github.com/Aldric-L/DDPG-Oligopolies-Simulator/blob/main/Strategies%20and%20equilibria%20on%20selected%20markets.pdf)
++ [Thesis and mathematical appendices](MA-AL-22-04-2024.pdf)
 + [Code and simulator](https://github.com/Aldric-L/DDPG-Oligopolies-Simulator)
 + [Defense (slides)](DefenseALABARTHE.pdf)
+
 
 <!--+ [Data](https://1drv.ms/f/s!An5zxDZ6MkIwo4JOOjl38hN-FeKA-A?e=pnTXqT)-->
 ---
