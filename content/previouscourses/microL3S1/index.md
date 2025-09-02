@@ -3,7 +3,7 @@ title: "Microeconomics: Insurance and risk theory (L3)"
 date: 2024-09-01
 aliases: 
 #    - /courses/microL1S2/graph.png
-tags: ["Undergraduate courses (Microeconomics)"]
+tags: ["Undergraduate courses (Microeconomics)", "Université Panthéon-Sorbonne"]
 author: "Aldric Labarthe"
 description: "Undergraduate course on insurance theory, risk theory, microeconomics and game theory. The course is given in French at Université Panthéon-Sorbonne." 
 summary: "Undergraduate course on insurance theory, risk theory, microeconomics and game theory. The course is given in French at Université Panthéon-Sorbonne." 

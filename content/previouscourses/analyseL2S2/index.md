@@ -3,7 +3,7 @@ title: "Mathematics: Multivariate Analysis and topology (L2)"
 date: 2025-01-01
 aliases: 
 #    - /courses/microL1S2/graph.png
-tags: ["Undergraduate courses (Mathematics)"]
+tags: ["Undergraduate courses (Mathematics)", "Université Panthéon-Sorbonne"]
 author: "Aldric Labarthe"
 description: "Undergraduate course on multivariate real analysis (in $R^n$) with some extensions on optimization theory and topology. The course is given in French at Université Panthéon-Sorbonne." 
 summary: "Undergraduate course on multivariate real analysis (in $R^n$) with some extensions on optimization theory and topology. The course is given in French at Université Panthéon-Sorbonne." 

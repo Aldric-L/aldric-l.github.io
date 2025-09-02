@@ -37,7 +37,7 @@ menu:
         #  weight: 6
 
 params:
-    description: "Junior researcher in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (equilibrium convergence, algorithmic prices, game theory), complex systems (networks, agent-based models) and geometric probabilistic models. I am a teaching assistant for the University Paris 1 Panthéon Sorbonne in economics and mathematics."
+    description: "Ph.D candidate in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (equilibrium convergence, algorithmic prices, game theory), complex systems (networks, agent-based models), geometry (graphs, hypergraphs, Riemmanian geometry and spectral geometry) and variational autoencoders with non-Euclidean priors. I am graduate program coordinator in statistics and machine learning at ENSAE Paris."
     author: Aldric Labarthe
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,7 +52,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["courses","papers", "projects"]
+    MainSections: ["courses","papers", "projects", "previouscourses"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -63,7 +63,7 @@ params:
     profileMode:
           enabled: true
           title: Aldric Labarthe
-          subtitle: "Junior researcher in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (equilibrium convergence, algorithmic prices, game theory), complex systems (networks, agent-based models) and geometric probabilistic models. I am a teaching assistant for the University Paris 1 Panthéon Sorbonne in economics and mathematics."
+          subtitle: "Ph.D candidate in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (equilibrium convergence, algorithmic prices, game theory), complex systems (networks, agent-based models), geometry (graphs, hypergraphs, Riemmanian geometry and spectral geometry) and variational autoencoders with non-Euclidean priors. I am graduate program coordinator in statistics and machine learning at ENSAE Paris."
           imageUrl: "PDP.jpg"
           imageWidth: 185
           imageHeight: 185
@@ -72,14 +72,18 @@ params:
               url: papers/
             - name: Courses
               url: courses/
+            - name: Past Courses
+              url: previouscourses/
             #- name: Data
             #  url: data/
             #- name: Books
             #  url: books/
-            - name: Tags
-              url: tags/
-            #- name: Archive
-            #  url: archive/
+            # - name: By Tags
+            #   url: tags/
+            # - name: By date
+            #   url: archive/
+            - name: Office
+              url: officehours/
             #- name: Blog
             #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -92,8 +96,8 @@ params:
           url: https://scholar.google.fr/citations?user=n2arORsAAAAJ&hl=fr
         - name: GitHub
           url: https://github.com/Aldric-L
-        #- name: YouTube
-        #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        - name: YouTube
+          url: https://www.youtube.com/@AldricLabarthe
         #- name: Twitter
         #  url: https://twitter.com/McCallSmith
 
