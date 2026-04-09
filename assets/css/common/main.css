@@ -74,3 +74,42 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+/* The Container */
+.research-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+    gap: 20px;                             /* Space between cards */
+    align-items: stretch;                  /* Makes all cards the same height */
+    margin-top: 20px;
+}
+
+/* Individual Card Adjustments */
+.research-card {
+    margin: 0 !important;   /* Reset PaperMod's default vertical margins */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px !important;
+}
+
+/* Make it look good on Mobile */
+@media screen and (max-width: 900px) {
+    .research-grid {
+        grid-template-columns: repeat(2, 1fr); /* 2 columns on tablets */
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .research-grid {
+        grid-template-columns: 1fr;            /* 1 column on phones */
+    }
+}
+
+hr.front-hr {
+  margin: 10px 0;
+  height: 2px;
+  background: var(--tertiary);
+  border: 0;
+  width: 100%;
+}

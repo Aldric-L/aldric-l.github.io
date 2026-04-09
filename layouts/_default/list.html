@@ -35,8 +35,7 @@
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
 {{- end }}
-
-{{- $term := .Data.Term }}
+<div class="{{ with .Params.special_class }}{{ if eq . "research-page" }}research-grid{{ end }}{{ end }}">{{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
 
 {{- $class := "post-entry" }}
@@ -46,6 +45,10 @@
 {{- $class = "first-entry" }}
 {{- else if $term }}
 {{- $class = "post-entry tag-entry" }}
+{{- end }}
+
+{{- if and .Params.special_class (eq .Params.special_class "research-page") }}
+  {{- $class = printf "%s %s" $class "research-card" }}
 {{- end }}
 
 <article class="{{ $class }}">
@@ -77,6 +80,9 @@
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
+
+</div> {{/* End of grid wrapper */}}
+</div>
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">

@@ -1,5 +1,4 @@
 baseURL: "https://aldric-l.github.io/" 
-canonical: "https://aldric-l.github.io/"
 title: Aldric Labarthe
 theme: PaperMod
 
@@ -11,35 +10,23 @@ taxonomies:
 
 menu:
     main:
-        #- name: Books
-        #  url: books/
-        #  weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
+        - name: Research
+          url: research/
+          weight: 1
         - name: Courses
           url: courses/
           weight: 3
+        - name: Past Courses
+          url: previouscourses/
+          weight: 4
         - name: Miscellaneous projects
           url: projects/
-          weight: 4
-        - name: All by dates
-          url: archive/
           weight: 5
-        - name: All by tags
-          url: tags/
-          weight: 5
-        #- name: Data
-        #  url: data/
-        #  weight: 4 
-        #- name: Blog
-        #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #  weight: 6
 
 params:
-    description: "Ph.D candidate in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (equilibrium convergence, algorithmic prices, game theory), complex systems (networks, agent-based models), geometry (graphs, hypergraphs, Riemmanian geometry and spectral geometry) and variational autoencoders with non-Euclidean priors. I am graduate program coordinator in statistics and machine learning at ENSAE Paris."
+    # SEO Description (Optimized for Google search snippets)
+    description: "Program coordinator at ENSAE Paris & Researcher in applied mathematics at ENS Paris-Saclay. Interest in computational medicine, economic equilibrium, and graph geometry."
     author: Aldric Labarthe
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -47,79 +34,58 @@ params:
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["courses","papers", "projects", "previouscourses"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
+    MainSections: ["research", "projects", "previouscourses"]
+    math: true # Crucial for your LaTeX rendering
+
     profileMode:
           enabled: true
           title: Aldric Labarthe
-          subtitle: "Ph.D candidate in applied mathematics from the Ecole Normale Supérieure Paris-Saclay. My research mainly focuses on joint issues with quantitative economics (equilibrium convergence, algorithmic prices, game theory), complex systems (networks, agent-based models), geometry (graphs, hypergraphs, Riemmanian geometry and spectral geometry) and variational autoencoders with non-Euclidean priors. I am graduate program coordinator in statistics and machine learning at ENSAE Paris."
+          # Full academic description for the homepage
+          subtitle: "Graduate program teaching coordinator in statistics and machine learning at ENSAE Paris & Ph.D. candidate in applied mathematics from the École Normale Supérieure Paris-Saclay."
           imageUrl: "PDP.jpg"
           imageWidth: 185
           imageHeight: 185
           buttons:
-            - name: Papers
-              url: papers/
             - name: Courses
               url: courses/
             - name: Past Courses
               url: previouscourses/
-            #- name: Data
-            #  url: data/
-            #- name: Books
-            #  url: books/
-            # - name: By Tags
-            #   url: tags/
-            # - name: By date
-            #   url: archive/
             - name: Office
               url: officehours/
-            #- name: Blog
-            #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          
+          # Custom fields you added to your template
+          researchtext: "I am currently pursuing research in 3 main directions:"
+          researchbuttons:
+            - name: Graphs and Geometry
+              url: research/graphs/
+            - name: Mathematical economics
+              url: research/mathematical-economics/
+            - name: Medical Imaging
+              url: research/medical-imaging/
 
     socialIcons:
         - name: CV
-          url: ALabarthe_AcademicCV2025.pdf
+          url: ALabarthe_AcademicCV2026.pdf
         - name: Email
-          url: mailto:[first_name].labarthe[at]ens-paris-saclay.[fr]
+          url: mailto:aldric.labarthe@ens-paris-saclay.fr # Real email for browser functionality
         - name: Google Scholar
           url: https://scholar.google.fr/citations?user=n2arORsAAAAJ&hl=fr
         - name: GitHub
           url: https://github.com/Aldric-L
         - name: YouTube
           url: https://www.youtube.com/@AldricLabarthe
-        #- name: Twitter
-        #  url: https://twitter.com/McCallSmith
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
     label:
       text: "Aldric Labarthe"
-      icon: PDP.jpg
+      icon: PDP.jpg # This shows a tiny version of your photo next to your name in the nav
       iconHeight: 18
     env: "production"
 
 markup:
     goldmark:
         renderer:
-            unsafe: true
+            unsafe: true # Allows your custom HTML/SVG icons in Markdown
     highlight:
         guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+        style: autumn

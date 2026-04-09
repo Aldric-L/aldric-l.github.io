@@ -8,7 +8,7 @@ description: "Schedule and location for Aldric Labarthe's office hours."
 --- 
 #### Schedule
 
-On site on Mondays, Tuesdays and Wednesdays (9h30-17h30). Office hours may fluctuate on Thursdays and Fridays.
+On site on Mondays, Tuesdays and Fidays (9h30-17h30). Office hours may fluctuate on Wednesdays and Thursdays.
 
 ---
 

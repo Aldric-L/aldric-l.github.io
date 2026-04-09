@@ -32,9 +32,40 @@
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
-        {{- partial "social_icons.html" -}}
+        <!-- {{- partial "social_icons.html" -}} -->
 
+        <div class="buttons">
+            <div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
+                {{- range site.Params.socialIcons }}
+                <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+                    title="{{ (.title | default .name) | title }}">
+                    {{ partial "svg.html" . }}
+                </a>
+                {{- end }}
+            </div>
         {{- with .buttons }}
+            {{- range . }}
+            <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
+                <span class="button-inner">
+                    {{ .name }}
+                    {{- if (findRE "://" .url) }}&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                    {{- end }}
+                </span>
+            </a>
+            {{- end }}
+        {{- end }}
+
+        </div>
+
+        <hr class="front-hr">
+        <span>{{ .researchtext | markdownify }}</span>
+        {{- with .researchbuttons }}
         <div class="buttons">
             {{- range . }}
             <a class="button" href="{{ trim .url " " }}" rel="noopener" title="{{ .name }}">
