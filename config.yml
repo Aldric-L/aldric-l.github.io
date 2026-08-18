@@ -8,6 +8,11 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
+security:
+  allowContent:
+    - text/markdown
+    - text/html
+
 menu:
     main:
         - name: Research
